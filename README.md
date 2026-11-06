@@ -99,7 +99,7 @@ The application is deployed using **Render** and is accessible online.
 
 ## 👨‍💻 Author
 
-**Amirreza Sedghi**
+**Amir Sedghi**
 
 Aspiring AI & Machine Learning Developer
 
